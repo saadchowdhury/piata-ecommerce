@@ -1,0 +1,175 @@
+﻿
+
+@model PaginatedList<Product>
+@{
+    ViewData["Title"] = "Index";
+
+    int cp = Model.PageIndex;
+    int tp = Model.TotalPages;
+    var next = Model.HasNextPage ? "" : "disabled";
+    var prev = Model.HasPreviousPage ? "" : "disabled";
+    int i = (cp - 1) * ViewBag.psize + 1;
+}
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+
+
+    <link href="~/css/shoppingitemstyle.css" rel="stylesheet" />
+</head>
+<body>
+    <h1>Shopping Items</h1>
+    <div class="container">
+        <div class="col-md-4">
+            @if (ViewBag.count != null)
+            {
+                <h5>Total Items : @ViewBag.count</h5>
+            }
+        </div>
+
+        <form asp-controller="Shopping" asp-action="Index" method="post">
+            <div class="input-group">
+                <input type="search" class="form-control rounded" name="usertext" placeholder="Search" aria-label="search"
+                       aria-describedby="search-addon" />
+                <button type="submit" class="btn btn-outline-primary">Search</button>
+            </div>
+        </form>
+
+        <div class="row my-3">
+            @*<div class="col-md-10">
+                <h6 class="display-4">@TempData["msg"]</h6>
+            </div>*@
+            <div class="col-md-10">
+
+            </div>
+            <div class="col-md-2">
+                <a asp-action="ShowCart" asp-controller="Shopping">
+                    <img src="~/image/cartimage.png" class="img-fluid" style="width:50px;" alt="cart image" />
+                </a>
+            </div>
+
+        </div>
+
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="list-group">
+                        <form asp-controller="Shopping" asp-action="Index" method="post">
+                            <div class="input-group">
+                                <button asp-action="Index" class="btn btn1" type="submit" name="usertext" value="men's clothing">Men's Item</button>
+                            </div>
+                        </form>
+                        <form asp-controller="Shopping" asp-action="Index" method="post">
+                            <div class="input-group">
+                                <button asp-action="Index" class="btn btn1" type="submit" name="usertext" value="women clothing">Women's Item</button>
+                            </div>
+                        </form>
+                        <form asp-controller="Shopping" asp-action="Index" method="post">
+                            <div class="input-group">
+                                <button asp-action="Index" class="btn btn1" type="submit" name="usertext" value="Kid's Item">Kid's Item</button>
+                            </div>
+                        </form>
+                        <form asp-controller="Shopping" asp-action="Index" method="post">
+                            <div class="input-group">
+                                <button asp-action="Index" class="btn btn1" type="submit" name="usertext" value="electronics">Electronics</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="col-md-8">
+                    @foreach (var item in Model)
+                    {
+                        <div class="card mb-3" style="max-width: 540px;">
+                            <div class="row g-0">
+                                <div class="col-md-4">
+                                    @if (item.Image != null)
+                                    {
+                                        var b64 = Convert.ToBase64String(item.Image);
+                                        var imageSource = String.Format("data:image/jpg;base64,{0}", b64);
+                                        <img class="img-fluid py-5" src="@imageSource" alt="Product Image" style="max-width: 200px;" />
+                                    }
+
+                                </div>
+                                <div class="col-md-8">
+                                    <div class="card-body">
+                                        <h4 class="card-title">@item.Name</h4>
+                                        <h6 class="card-subtitle">@item.Price Taka</h6>
+                                        <p class="card-text">@item.Description</p>
+                                        <form asp-action="AddToCart" class="form-inline" method="post">
+                                            <input type="hidden" name="pid" value="@item.Id" />
+                                            <input type="number" name="qty" value="1" class="form-control" style="width: 16rem;" />
+                                            <button class="btn btn-primary btn-sm m-1" type="submit">Add to cart</button>
+                                        </form>
+                                        <form asp-action="DetailsProduct" class="form-inline" method="post">
+                                            <input type="hidden" name="pid" value="@item.Id" />
+                                            <button class="btn btn-secondary btn-sm m-1" type="submit">Details</button>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+                <ul class="pagination">
+                    <li class="">
+                        <a asp-action="Index"
+                           asp-route-sortOrder="@ViewBag.sortparam"
+                           asp-route-usertext="@ViewBag.sword"
+                           asp-route-page="1" class="btn btn-success">First</a>
+                    </li>
+                    <li class="page-item @prev">
+                        <a asp-action="Index"
+                           asp-route-sortOrder="@ViewBag.sortparam"
+                           asp-route-usertext="@ViewBag.sword"
+                           asp-route-page="@(cp-1)" class="btn btn-primary @prev">Prev</a>
+                    </li>
+                    @for (int k = 1; k < Model.TotalPages; k++)
+                    {
+                        if (k >= cp - 5 && k <= cp + 5)
+                        {
+                            if (k == cp)
+                            {
+                                <li class="page-item @(k==cp?"active":"")">
+                                    <a asp-action="Index"
+                                       asp-route-sortOrder="@ViewBag.sortparam"
+                                       asp-route-usertext="@ViewBag.sword"
+                                       asp-route-page="@k" class="btn btn-warning">@k</a>
+                                </li>
+                            }
+                            else
+                            {
+                                <li class="page-item @(k==cp?"active":"")">
+                                    <a asp-action="Index"
+                                       asp-route-sortOrder="@ViewBag.sortparam"
+                                       asp-route-usertext="@ViewBag.sword"
+                                       asp-route-page="@k" class="btn btn-secondary">@k</a>
+                                </li>
+                            }
+                        }
+                    }
+                    <li class="page-item @next">
+                        <a asp-action="Index"
+                           asp-route-sortOrder="@ViewBag.sortparam"
+                           asp-route-usertext="@ViewBag.sword"
+                           asp-route-page="@(cp+1)" class="btn btn-primary @next">Next</a>
+                    </li>
+                    <li>
+                        <a asp-action="Index"
+                           asp-route-sortOrder="@ViewBag.sortparam"
+                           asp-route-usertext="@ViewBag.sword"
+                           asp-route-page="@Model.TotalPages" class="btn btn-success">Last</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

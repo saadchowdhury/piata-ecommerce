@@ -1,0 +1,75 @@
+﻿@model PaginatedList<work_01.Models.Product>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@*<div class="text-center">
+        <h1 class="display-4">Welcome</h1>
+        <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    </div>*@
+
+<div id="home carousel" class="carousel slide" data-ride="carousel" data-interval="2000">
+
+    <!-- Indicators -->
+    <ul class="carousel-indicators">
+        <li data-slide-to="0" class="active"></li>
+        <li data-slide-to="1"></li>
+        <li data-slide-to="2"></li>
+    </ul>
+
+    <!-- The slideshow -->
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="~/image/slideone.jpg" class="d-block w-100" alt="image 1">
+        </div>
+        <div class="carousel-item">
+            <img src="~/image/slidetwo.jpg" class="d-block w-100" alt="image 2">
+        </div>
+        <div class="carousel-item">
+            <img src="~/image/slidethree.jpg" class="d-block w-100" alt="image 3">
+        </div>
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="carousel-control-prev" href="#demo" data-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+    </a>
+    <a class="carousel-control-next" href="#demo" data-slide="next">
+        <span class="carousel-control-next-icon"></span>
+    </a>
+
+</div>
+
+
+
+<div class="row my-5 d-inline-flex p-2">
+    <div>
+        <p>
+            <h1 class="d-inline-flex p-2">
+                Buy from us. Be our Regular customer. Get Amazing Deals and enjoy fastest delivary.
+            </h1>
+        </p>
+        <p>
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+            when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+            It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+            and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+        </p>
+        <p>
+            Contrary to popular belief, Lorem Ipsum is not simply random text. 
+            It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. 
+            Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, 
+            looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.
+        </p>
+        <div class="container text-center">
+            <a class="btn btn-dark" asp-area="" asp-controller="Shopping" asp-action="Index">Our Products</a>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+

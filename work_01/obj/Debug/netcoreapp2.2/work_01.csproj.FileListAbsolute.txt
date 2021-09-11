@@ -1,0 +1,365 @@
+I:\.NET Practice\BITM_010_D016\work_01\bin\Debug\netcoreapp2.2\work_01.deps.json
+I:\.NET Practice\BITM_010_D016\work_01\bin\Debug\netcoreapp2.2\work_01.runtimeconfig.json
+I:\.NET Practice\BITM_010_D016\work_01\bin\Debug\netcoreapp2.2\work_01.runtimeconfig.dev.json
+I:\.NET Practice\BITM_010_D016\work_01\bin\Debug\netcoreapp2.2\work_01.dll
+I:\.NET Practice\BITM_010_D016\work_01\bin\Debug\netcoreapp2.2\work_01.pdb
+I:\.NET Practice\BITM_010_D016\work_01\bin\Debug\netcoreapp2.2\work_01.Views.dll
+I:\.NET Practice\BITM_010_D016\work_01\bin\Debug\netcoreapp2.2\work_01.Views.pdb
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.csprojAssemblyReference.cache
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.csproj.CoreCompileInputs.cache
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.RazorAssemblyInfo.cache
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.RazorAssemblyInfo.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.AssemblyInfoInputs.cache
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.AssemblyInfo.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.TagHelpers.input.cache
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.TagHelpers.output.cache
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.RazorCoreGenerate.cache
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.RazorTargetAssemblyInfo.cache
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.RazorTargetAssemblyInfo.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.Views.pdb
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.dll
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.pdb
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.csproj.CopyComplete
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Create.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Delete.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Details.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Edit.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Index.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesOrders\Create.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesOrders\Delete.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesOrders\Details.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesOrders\Edit.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesOrders\Index.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesItems\Create.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesItems\Delete.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesItems\Details.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesItems\Edit.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesItems\Index.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shopping\Index.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Details.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.g.cshtml.cs
+I:\.NET Practice\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\bin\Debug\netcoreapp2.2\work_01.deps.json
+J:\garbage files\BITM_010_D016\work_01\bin\Debug\netcoreapp2.2\work_01.runtimeconfig.json
+J:\garbage files\BITM_010_D016\work_01\bin\Debug\netcoreapp2.2\work_01.runtimeconfig.dev.json
+J:\garbage files\BITM_010_D016\work_01\bin\Debug\netcoreapp2.2\work_01.dll
+J:\garbage files\BITM_010_D016\work_01\bin\Debug\netcoreapp2.2\work_01.pdb
+J:\garbage files\BITM_010_D016\work_01\bin\Debug\netcoreapp2.2\work_01.Views.dll
+J:\garbage files\BITM_010_D016\work_01\bin\Debug\netcoreapp2.2\work_01.Views.pdb
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.csprojAssemblyReference.cache
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.csproj.CoreCompileInputs.cache
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.RazorAssemblyInfo.cache
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.RazorAssemblyInfo.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.AssemblyInfoInputs.cache
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.AssemblyInfo.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.TagHelpers.input.cache
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.TagHelpers.output.cache
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.RazorCoreGenerate.cache
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Create.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Delete.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Details.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Edit.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Index.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Details.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesItems\Create.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesItems\Delete.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesItems\Details.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesItems\Edit.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesItems\Index.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesOrders\Create.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesOrders\Delete.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesOrders\Details.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesOrders\Edit.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesOrders\Index.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shopping\Index.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.RazorTargetAssemblyInfo.cache
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.RazorTargetAssemblyInfo.cs
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.Views.pdb
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.dll
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.pdb
+J:\garbage files\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.csproj.CopyComplete
+J:\backup\BITM_010_D016\work_01\bin\Debug\netcoreapp2.2\work_01.deps.json
+J:\backup\BITM_010_D016\work_01\bin\Debug\netcoreapp2.2\work_01.runtimeconfig.json
+J:\backup\BITM_010_D016\work_01\bin\Debug\netcoreapp2.2\work_01.runtimeconfig.dev.json
+J:\backup\BITM_010_D016\work_01\bin\Debug\netcoreapp2.2\work_01.dll
+J:\backup\BITM_010_D016\work_01\bin\Debug\netcoreapp2.2\work_01.pdb
+J:\backup\BITM_010_D016\work_01\bin\Debug\netcoreapp2.2\work_01.Views.dll
+J:\backup\BITM_010_D016\work_01\bin\Debug\netcoreapp2.2\work_01.Views.pdb
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.csprojAssemblyReference.cache
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.csproj.CoreCompileInputs.cache
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.RazorAssemblyInfo.cache
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.RazorAssemblyInfo.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.AssemblyInfoInputs.cache
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.AssemblyInfo.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.TagHelpers.input.cache
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.TagHelpers.output.cache
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.RazorCoreGenerate.cache
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Create.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Delete.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Details.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Edit.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Index.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Details.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesItems\Create.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesItems\Delete.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesItems\Details.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesItems\Edit.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesItems\Index.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesOrders\Create.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesOrders\Delete.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesOrders\Details.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesOrders\Edit.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesOrders\Index.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shopping\Index.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.RazorTargetAssemblyInfo.cache
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.RazorTargetAssemblyInfo.cs
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.Views.pdb
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.dll
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.pdb
+J:\backup\BITM_010_D016\work_01\obj\Debug\netcoreapp2.2\work_01.csproj.CopyComplete
+I:\.NET Practice\Project\work_01\bin\Debug\netcoreapp2.2\work_01.deps.json
+I:\.NET Practice\Project\work_01\bin\Debug\netcoreapp2.2\work_01.runtimeconfig.json
+I:\.NET Practice\Project\work_01\bin\Debug\netcoreapp2.2\work_01.runtimeconfig.dev.json
+I:\.NET Practice\Project\work_01\bin\Debug\netcoreapp2.2\work_01.dll
+I:\.NET Practice\Project\work_01\bin\Debug\netcoreapp2.2\work_01.pdb
+I:\.NET Practice\Project\work_01\bin\Debug\netcoreapp2.2\work_01.Views.dll
+I:\.NET Practice\Project\work_01\bin\Debug\netcoreapp2.2\work_01.Views.pdb
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\work_01.csprojAssemblyReference.cache
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\work_01.csproj.CoreCompileInputs.cache
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\work_01.RazorAssemblyInfo.cache
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\work_01.RazorAssemblyInfo.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\work_01.AssemblyInfoInputs.cache
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\work_01.AssemblyInfo.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\work_01.TagHelpers.input.cache
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\work_01.TagHelpers.output.cache
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\work_01.RazorCoreGenerate.cache
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Create.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Delete.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Details.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Edit.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Index.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Details.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shopping\Index.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\work_01.RazorTargetAssemblyInfo.cache
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\work_01.RazorTargetAssemblyInfo.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\work_01.Views.pdb
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\work_01.dll
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\work_01.pdb
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\work_01.csproj.CopyComplete
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shopping\ShowCart.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\bin\Debug\netcoreapp2.2\work_01.deps.json
+J:\backup\project backup files\Project 2\work_01\bin\Debug\netcoreapp2.2\work_01.runtimeconfig.json
+J:\backup\project backup files\Project 2\work_01\bin\Debug\netcoreapp2.2\work_01.runtimeconfig.dev.json
+J:\backup\project backup files\Project 2\work_01\bin\Debug\netcoreapp2.2\work_01.dll
+J:\backup\project backup files\Project 2\work_01\bin\Debug\netcoreapp2.2\work_01.pdb
+J:\backup\project backup files\Project 2\work_01\bin\Debug\netcoreapp2.2\work_01.Views.dll
+J:\backup\project backup files\Project 2\work_01\bin\Debug\netcoreapp2.2\work_01.Views.pdb
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.csprojAssemblyReference.cache
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.csproj.CoreCompileInputs.cache
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.RazorAssemblyInfo.cache
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.RazorAssemblyInfo.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.AssemblyInfoInputs.cache
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.AssemblyInfo.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.TagHelpers.input.cache
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.TagHelpers.output.cache
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.RazorCoreGenerate.cache
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Create.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Delete.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Details.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Edit.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Index.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Details.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesItems\Create.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesItems\Delete.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesItems\Details.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesItems\Edit.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesItems\Index.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesOrders\Create.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesOrders\Delete.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesOrders\Details.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesOrders\Edit.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\SalesOrders\Index.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shopping\Index.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shopping\ShowCart.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.RazorTargetAssemblyInfo.cache
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.RazorTargetAssemblyInfo.cs
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.Views.pdb
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.dll
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.pdb
+J:\backup\project backup files\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.csproj.CopyComplete
+I:\.NET Practice\Project 2\work_01\bin\Debug\netcoreapp2.2\work_01.deps.json
+I:\.NET Practice\Project 2\work_01\bin\Debug\netcoreapp2.2\work_01.runtimeconfig.json
+I:\.NET Practice\Project 2\work_01\bin\Debug\netcoreapp2.2\work_01.runtimeconfig.dev.json
+I:\.NET Practice\Project 2\work_01\bin\Debug\netcoreapp2.2\work_01.dll
+I:\.NET Practice\Project 2\work_01\bin\Debug\netcoreapp2.2\work_01.pdb
+I:\.NET Practice\Project 2\work_01\bin\Debug\netcoreapp2.2\work_01.Views.dll
+I:\.NET Practice\Project 2\work_01\bin\Debug\netcoreapp2.2\work_01.Views.pdb
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.csprojAssemblyReference.cache
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.csproj.CoreCompileInputs.cache
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.RazorAssemblyInfo.cache
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.RazorAssemblyInfo.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.AssemblyInfoInputs.cache
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.AssemblyInfo.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.TagHelpers.input.cache
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.TagHelpers.output.cache
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.RazorCoreGenerate.cache
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Create.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Delete.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Details.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Edit.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Customers\Index.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Details.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shopping\Index.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shopping\ShowCart.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.RazorTargetAssemblyInfo.cache
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.RazorTargetAssemblyInfo.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.Views.pdb
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.dll
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.pdb
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\work_01.csproj.CopyComplete
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Home\Aboutus.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Role\Index.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Role\AssignRole.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shopping\CheckOut.g.cshtml.cs
+I:\.NET Practice\Project 2\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shopping\DetailsProduct.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Home\Aboutus.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Role\AssignRole.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Role\Index.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shopping\CheckOut.g.cshtml.cs
+I:\.NET Practice\Project\work_01\obj\Debug\netcoreapp2.2\Razor\Views\Shopping\DetailsProduct.g.cshtml.cs

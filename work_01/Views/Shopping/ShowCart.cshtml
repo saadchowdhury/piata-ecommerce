@@ -1,0 +1,195 @@
+﻿@model IEnumerable<work_01.Models.Product>
+
+@{
+    ViewData["Title"] = "ShowCart";
+    double subtotal = 0;
+    double total = 0;
+    int sl = 1;
+}
+
+
+
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <link href="~/css/CartStyle.css" rel="stylesheet" />
+</head>
+<body>
+    <h1 class="mb-5 text-center">Shopping Cart</h1>
+
+    @if (Model != null)
+    {
+        <div class="container">
+            <div class="row ">
+                <div class="col-md-8">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Image)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Name)
+                                </th>
+
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Price)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Quantity)
+                                </th>
+                                <th>
+                                    Sub Total
+                                </th>
+                                <th>
+                                    Action
+                                </th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        @{
+                                            var b64 = Convert.ToBase64String(item.Image);
+                                            var imageSource = String.Format("data:image/jpg;base64,{0}", b64);
+                                        }
+                                        <img src="@imageSource" alt="Product Image" style="width:150px" />
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Name)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Price)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Quantity)
+                                    </td>
+                                    <td>
+                                        @{
+                                            subtotal = item.Price * item.Quantity;
+                                            total += subtotal;
+                                        }
+                                        @subtotal
+                                    </td>
+                                    <td>
+                                        <a asp-action="RemoveFromCart" class="btn btn-danger" asp-route-id="@item.Id">Remove</a>
+
+                                    </td>
+                                </tr>
+                                sl++;
+                            }
+                            <tr>
+                                <td colspan="7"><b>Total</b></td>
+                                <td><b>@total</b></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="col-md-4 border align-text-bottom" id="cartcal">
+                    <h4 class="text-lg-left px-1 py-2 border-bottom"><b>Total</b></h4>
+                    <div class="py-5">
+                        <h5>Your total amount is: <b>@total</b> Taka</h5>
+                    </div>
+                    <div>
+                        <a asp-action="Index" asp-controller="Shopping" class="btn btn-dark mb-1 btn1">Continuing Shopping</a>
+                    </div>
+                    <div>
+                        <a asp-action="CheckOut" asp-controller="Shopping" class="btn btn-dark btn-lg mt-1 mb-3 btn1">Check Out</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        @*<table class="table">
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Image)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Name)
+                        </th>
+
+                        <th>
+                            @Html.DisplayNameFor(model => model.Price)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Quantity)
+                        </th>
+                        <th>
+                            Sub Total
+                        </th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @{
+                                    var b64 = Convert.ToBase64String(item.Image);
+                                    var imageSource = String.Format("data:image/jpg;base64,{0}", b64);
+                                }
+                                <img src="@imageSource" alt="Product Image" style="width:150px" />
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Name)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Price)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Quantity)
+                            </td>
+                            <td>
+                                    @{
+                                        subtotal = item.Price * item.Quantity;
+                                        total += subtotal;
+                                    }
+                                    @subtotal
+                            </td>
+                            <td>
+                                    <a asp-action="RemoveFromCart" class="btn btn-danger" asp-route-id="@item.Id">Remove</a>
+
+                            </td>
+                        </tr>
+                        sl++;
+                    }
+                        <tr>
+                            <td colspan="7"><b>Total</b></td>
+                            <td><b>@total</b></td>
+                        </tr>
+                </tbody>
+            </table>*@
+
+        @*<div class="row">
+                <div class=" col-md-10">
+                    <a asp-action="Index" asp-controller="Shopping" class="btn btn-success btn-sm">Continuing Shopping</a>
+                </div>
+                <div class=" col-md-2">
+                    <a asp-action="CheckOut" asp-controller="Shopping" class="btn btn-success btn-sm">Check Out</a>
+                </div>
+            </div>*@
+    }
+    else
+    {
+        <div class="row">
+            <div class="col-md-10">
+                <h4 class="text-danger text-center">sorry ! You have no item in your cart</h4>
+            </div>
+            <div>
+                <a asp-action="Index" class="btn btn-primary btn1">Shop Now</a>
+            </div>
+        </div>
+    }
+</body>
